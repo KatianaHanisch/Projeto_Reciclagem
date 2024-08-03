@@ -1,0 +1,9 @@
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: papel
+  1: metal
+  2: plastico
+  3: vidro
